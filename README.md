@@ -10,3 +10,7 @@ By tweaking the branching angle, we can generate patterns such as the [H-tree](h
 Here, the new and old branches are perpendicular, and are scaled down by a factor of 1/√2.
 
 ![H-tree](H-tree.png)
+
+Many structures in nature resemble fractal canopies, such as systems of blood vessels or bronchioles in a lung.
+[Lichtenberg figures](https://en.wikipedia.org/wiki/Lichtenberg_figure) are a closely related class of fractals which are observed during electrical breakdown, for instance lightning.
+Another related class are [Brownian trees](https://en.wikipedia.org/wiki/Brownian_tree), which are seen during certain types of random walks where particles are allowed to aggregate together.
